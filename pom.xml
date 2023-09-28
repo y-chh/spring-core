@@ -9,11 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.spring-boot</groupId>
-	<artifactId>dependency-injection-demo</artifactId>
+	<artifactId>spring-fundamentals</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-    <name>dependency-injection-demo</name>
+	<name>dependency-injection-demo</name>
 	<description>Demo project for Spring Boot</description>
-    <properties>
+	<properties>
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
